@@ -1,5 +1,3 @@
-package com.Trees;
-
 public class BTree
 {
     public static class Node
