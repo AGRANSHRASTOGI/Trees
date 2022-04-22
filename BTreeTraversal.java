@@ -1,4 +1,3 @@
-package com.Trees;
 class Node
 {
     int key;
