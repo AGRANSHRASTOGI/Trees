@@ -1,4 +1,3 @@
-package com.DSA;
 class Node
 {
     int data;
