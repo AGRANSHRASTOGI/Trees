@@ -1,5 +1,3 @@
-package com.Trees;
-
 public class BSTreeDel
 {   class Node
     {
